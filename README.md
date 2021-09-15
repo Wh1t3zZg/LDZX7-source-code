@@ -5,7 +5,7 @@
 
 # Code Description
 [read_save.ipynb](read_save.ipynb): this notebook provides various ways of reading and saving point clouds, 3D meshes with help of multiple packages.    
-[compression.ipynb](compression.ipynb): this notebook provides: 1. 3D mesh(standford bunny, and reconstructed Owlii dancer mesh version) compression by Google Draco; 2. translation methods of point-cloud-to-mesh or mesh-to-point-cloud. The implementations come with their results such as: visualization, encode and decode times, translation times. The compressed *.draco* file is uploaded to *dancer* folder.     
+[compression_translation.ipynb](compression_translation.ipynb): this notebook provides: 1. 3D mesh(standford bunny, and reconstructed Owlii dancer mesh version) compression by Google Draco; 2. translation methods of point-cloud-to-mesh or mesh-to-point-cloud. The implementations come with their results such as: visualization, encode and decode times, translation times.  
 [marching_cube.py](marching_cube.py): this code uses marching cube algorithm to generate mesh from signed distance function for visualization or further uses.    
 [demo.ipynb](demo.ipynb): this notebook shows point cloud compression process implementation mentioned in the report, including compression rate in terms of bpp (bits per point), encode and decode time. The compressed files are contained in the *compressed* folder in the *dancer* folder.    
 [multiplane.py](multiplane.py): this code turn point cloud into its multiplane representation.   
