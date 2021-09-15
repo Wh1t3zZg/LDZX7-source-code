@@ -1,6 +1,6 @@
-# MSc project - Learned 3D representations: point clouds, depth maps and holograms
-**author: LDZX7
-**supervisor: Kaan Akşit**
+# MSc project - Learned 3D representations: point clouds, depth maps and holograms  
+**author: LDZX7**  
+**supervisor: Kaan Akşit**  
 
 
 # Code Description
